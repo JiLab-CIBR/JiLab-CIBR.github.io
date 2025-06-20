@@ -7,6 +7,8 @@ nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+Ni Ji Lab
+Chinese Institute for Brain Research, Beijing(CIBR)
+Room ?? Bldg.3, NO.9, YIKE Rd, Zhongguancun Life Science Park
+Changping District, Beijing, China
+Email: niji(at)cibr.ac.cn
