@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
+title: An emergent low-rank neural architecture for manual interception of moving targets
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/paradigm_of_monkey.png
 importance: 1
 category: work
 related_publications: true
