@@ -2,7 +2,7 @@
 layout: page
 title: Qianqian Zhang
 description: 2022-present Ph.D. Students
-img: assets/img/Zexi Su-PhDstudent.a34fdeaf.png
+img: assets/img/QianqianZhang-PhDstudent.fd52436e.jpg
 redirect: https://unsplash.com
 importance: 3
 category: Ph.D. Students
