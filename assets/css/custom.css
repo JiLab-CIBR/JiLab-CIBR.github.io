@@ -1,0 +1,21 @@
+/* 背景图设置 */
+.profile-background {
+  background-image: url('/assets/images/Ji_Lab_Logo.png'); /* 注意路径 */
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+  opacity: 0.1;  /* 可调节透明度 */
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 0;
+  pointer-events: none;
+}
+
+/* 内容区层级设置 */
+.page__content {
+  position: relative;
+  z-index: 1;
+}
