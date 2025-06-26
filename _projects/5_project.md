@@ -5,7 +5,7 @@ description: 2023-present Ph.D. Students
 img: assets/img/Liuyu-PhDstudent.16b131be.jpg
 redirect: https://unsplash.com
 importance: 4
-category: Ph.D. Students
+category: work
 ---
 
 He is working on adaptive foraging behavior in C. elegans, and is interested in the neural mechanisms and algorithmic principles of the behavior.
