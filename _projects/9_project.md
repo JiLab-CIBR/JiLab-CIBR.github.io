@@ -1,15 +1,13 @@
 ---
 layout: page
-title: project 9
-description: another project with an image 🎉
-img: assets/img/6.jpg
-importance: 4
-category: fun
+title: Siyu Ning
+description: 2024-present Ph.D. Students 
+img: assets/img/Ningsiyu-PhDstudent.e3898c1c.jpg
+importance: 9
+category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+She is learning how to use reinforcement learning theories to build models that interpret human decision-making behaviors, and is interested in the brain activity patterns of important brain regions.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
