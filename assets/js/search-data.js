@@ -448,9 +448,9 @@ ninja.data = [{
           description: "2023-present Ph.D. Students",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project.html";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-yating-liu",
+          title: 'Yating Liu',
+          description: "2023-present Ph.D. Students",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project.html";
             },},{id: "projects-project-7",
