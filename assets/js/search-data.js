@@ -423,8 +423,8 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-ni-ji-assistant-investigator",
-          title: 'Ni Ji Assistant Investigator',
+          section: "News",},{id: "projects-ni-ji",
+          title: 'Ni Ji',
           description: "Ph.D.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
@@ -433,9 +433,9 @@ ninja.data = [{
           description: "Ph.D.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-zexi-su",
+          title: 'Zexi Su',
+          description: "2022-present Ph.D. Students",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project.html";
             },},{id: "projects-project-4",
