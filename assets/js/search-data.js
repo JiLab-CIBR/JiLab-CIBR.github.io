@@ -430,7 +430,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project.html";
             },},{id: "projects-jiachang-hao",
           title: 'Jiachang Hao',
-          description: "Ph.D.",
+          description: "Postdoctoral Fellow",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
             },},{id: "projects-zexi-su",
