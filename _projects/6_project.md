@@ -5,7 +5,7 @@ description: 2023-present Ph.D. Students
 img: assets/img/Yating Liu-PhDstudent4.f6e35fc0.jpg
 redirect: https://unsplash.com
 importance: 6
-category: Ph.D. Students
+category: work
 ---
 
 She is working on the computational modeling of Monkeys behaviors and is interested in neural decoding of brain computer interface.
