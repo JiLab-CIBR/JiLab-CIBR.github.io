@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
+title: Zexi Su
+description: 2022-present Ph.D. Students
+img: assets/img/Zexi Su-PhDstudent.a34fdeaf.png
 redirect: https://unsplash.com
 importance: 3
-category: work
+category: Ph.D. Students
 ---
 
 Every project has a beautiful feature showcase page.
