@@ -423,9 +423,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-a-low-rank-neural-architecture-for-manual-interception",
-          title: 'A low-rank neural architecture for manual interception',
-          description: "with background image",
+          section: "News",},{id: "projects-ni-ji-assistant-investigator",
+          title: 'Ni Ji Assistant Investigator',
+          description: "Ph.D.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
             },},{id: "projects-project-2",
