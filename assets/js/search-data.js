@@ -423,7 +423,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-ni-ji",
+          section: "News",},{id: "projects-tianhe-li",
+          title: 'Tianhe Li',
+          description: "Ph.D. Students (Starting Fall 2025)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/10_project.html";
+            },},{id: "projects-ni-ji",
           title: 'Ni Ji',
           description: "Ph.D.",
           section: "Projects",handler: () => {
