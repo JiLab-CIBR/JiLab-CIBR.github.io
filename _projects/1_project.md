@@ -1,8 +1,8 @@
 ---
 layout: page
-title: A low-rank neural architecture for manual interception
-description: with background image
-img: assets/img/paradigm_of_monkey.png
+title: Ni Ji Assistant Investigator
+description: Ph.D.
+img: assets/img/NiJi-PrincipleInvestigator.bbdf66f6.jpg
 importance: 1
 category: work
 related_publications: true
