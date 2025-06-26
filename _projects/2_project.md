@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Jiachang Hao 
-description: Ph.D.
+description: Postdoctoral Fellow
 img: assets/img/JiachangHao-postdoc.1a7e8ea7.jpg
 importance: 2
 category: Post-doctoral
