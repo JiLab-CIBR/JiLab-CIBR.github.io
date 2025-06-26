@@ -458,14 +458,14 @@ ninja.data = [{
           description: "2023-present Ph.D. Students",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project.html";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+            },},{id: "projects-siqi-li",
+          title: 'Siqi Li',
+          description: "2024-present Ph.D. Students",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project.html";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+            },},{id: "projects-siyu-ning",
+          title: 'Siyu Ning',
+          description: "2024-present Ph.D. Students",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project.html";
             },},{
