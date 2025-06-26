@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Ni Ji Assistant Investigator
+title: Ni Ji 
 description: Ph.D.
 img: assets/img/NiJi-PrincipleInvestigator.bbdf66f6.jpg
 importance: 1
-category: work
+category: Principal Investigator
 related_publications: true
 ---
 
