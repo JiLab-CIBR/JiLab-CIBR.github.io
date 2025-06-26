@@ -2,7 +2,7 @@
 layout: page
 title: Yating Liu
 description: 2023-present Ph.D. Students
-img: assets/img/Yating Liu-PhDstudent4.f6e35fc0e.jpg
+img: assets/img/Yating Liu-PhDstudent4.f6e35fc0.jpg
 redirect: https://unsplash.com
 importance: 6
 category: Ph.D. Students
