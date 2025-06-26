@@ -430,7 +430,7 @@ ninja.data = [{
               window.location.href = "/projects/10_project.html";
             },},{id: "projects-ni-ji",
           title: 'Ni Ji',
-          description: "Ph.D.",
+          description: "Principal Investigator",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
             },},{id: "projects-jiachang-hao",
