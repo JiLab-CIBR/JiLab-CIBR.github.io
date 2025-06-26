@@ -1,16 +1,14 @@
 ---
 layout: page
-title: project 8
-description: an other project with a background image and giscus comments
-img: assets/img/9.jpg
-importance: 2
+title: Siqi Li
+description: 2024-present Ph.D. Students
+img: assets/img/Lisiqi-PhDstudent(1).93fc8a09.png
+importance: 8
 category: work
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+He takes interest in artificial intelligence, computational neuroscience, as well as brain-computer interface.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
