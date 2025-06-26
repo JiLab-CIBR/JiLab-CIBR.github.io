@@ -423,14 +423,14 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-ni-ji-assistant-investigator",
-          title: 'Ni Ji Assistant Investigator',
+          section: "News",},{id: "projects-ni-ji",
+          title: 'Ni Ji',
           description: "Ph.D.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-jiachang-hao",
+          title: 'Jiachang Hao',
+          description: "Ph.D.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
             },},{id: "projects-project-3-with-very-long-name",
