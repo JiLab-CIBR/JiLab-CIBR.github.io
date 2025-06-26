@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Qianqian Zhang
+description: 2022-present Ph.D. Students
+img: assets/img/Zexi Su-PhDstudent.a34fdeaf.png
+redirect: https://unsplash.com
 importance: 3
-category: fun
+category: Ph.D. Students
 ---
 
 Every project has a beautiful feature showcase page.
