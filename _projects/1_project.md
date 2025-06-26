@@ -9,7 +9,7 @@ related_publications: true
 ---
 
 Dr. Ji graduated with a PhD from the Department of Cognitive Brain Science at MIT and have held postdoctoral and senior scientist positions at Harvard University and MIT. Her multiple studies have revealed the principles of robustness and flexibility of biological networks in perception, decision-making, and motion control. The research results have been published as a single author (including co authors) or corresponding author in top international journals and conferences such as Cell, ICLR, PNAS, eLife, etc. The research team was supported by several funds such as National Natural Science Foundation of China, Chinese Academy of Medical Sciences, Beijing Municipality, ByteDance, etc.
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+
 
     ---
     layout: page
