@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Jiachang Hao 
+description: Ph.D.
+img: assets/img/JiachangHao-postdoc.1a7e8ea7.jpg
 importance: 2
-category: work
+category: Post-doctoral
 giscus_comments: true
 ---
 
