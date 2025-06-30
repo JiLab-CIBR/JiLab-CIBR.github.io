@@ -4,16 +4,23 @@
     <div class="container">
       {% if page.permalink != '/' %}
         <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
-          <!-- 用 Logo 图替代文字 -->
-          <img 
-            src="{{ 'assets/img/jilab-logo.png?v=2' | relative_url }}" 
-            alt="JiLab CIBR Logo" 
-            style="height: auto; width: auto;" 
-          />
+          {% if site.title == 'blank' %}
+            {% if site.first_name %}
+              <span class="font-weight-bold">
+                {{- site.first_name -}}
+              </span>
+            {% endif %}
+            {% if site.middle_name %}
+              {{- site.middle_name -}}
+            {% endif %}
+            {% if site.last_name %}
+              {{- site.last_name -}}
+            {% endif %}
+          {% else %}
+            {{- site.title -}}
+          {% endif %}
         </a>
       {% elsif site.enable_navbar_social %}
-        …
-      {% endif %}
         <!-- Social Icons -->
         <div class="navbar-brand social">{% include social.liquid %}</div>
       {% endif %}
