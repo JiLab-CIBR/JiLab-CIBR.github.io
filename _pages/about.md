@@ -13,6 +13,10 @@ profile:
     <p>555 your office number</p>
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
+    
+<video width="100%" autoplay loop muted playsinline controls alt="wholebrain">
+  <source src="https://github.com/JiLab-CIBR/JiLab-CIBR.github.io/blob/main/assets/video/wholebrain2.b2c87a21%20-%20Compressed%20with%20FlexClip.mp4" type="video/mp4">
+</video>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
